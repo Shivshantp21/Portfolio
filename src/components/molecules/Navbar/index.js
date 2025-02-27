@@ -64,7 +64,7 @@ export default function Navbar() {
       <div className="w-full flex items-center justify-between px-3 md:px-24 py-3">
         <div>
           <Link to="/" className="flex justify-center items-center gap-2 ">
-            <img src="/Sp-dr.png" alt="Hi" width={75} className="-ml-10"/>
+            <img src="https://res.cloudinary.com/dndmpobbf/image/upload/v1740665843/Portfolio/sp-dr_udtirb.png" alt="Hi" width={75} className="-ml-10"/>
             <h1 className="text-2xl text-primary font-lobster">Shivshant Prasad</h1>
           </Link>
         </div>
