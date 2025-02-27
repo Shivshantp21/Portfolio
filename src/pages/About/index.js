@@ -35,9 +35,10 @@ const About = () => {
             }}
           >
             <img
-              src="https://res.cloudinary.com/dndmpobbf/image/upload/v1738940024/sp-removebg_ulkn1o.png"
+              // src="https://res.cloudinary.com/dndmpobbf/image/upload/v1738940024/sp-removebg_ulkn1o.png"
+              src="https://res.cloudinary.com/dndmpobbf/image/upload/v1740667417/Portfolio/Sp-Linkedin_crrzcp.jpg"
               alt="Shivshant Prasad"
-              className="p-12 w-70 h-70 transform translate-y-[-11%]"
+              className="p-12 w-70 h-100 transform translate-y-[-11%] mt-10"
               title="Shivshant Prasad"
             />
 
@@ -54,7 +55,7 @@ const About = () => {
             <h1 className="text-4xl -mt-1 font-semibold mb-3 text-center translate-y-[-380%] sm:translate-y-[-0%] sm:text-3xl sm:mb-2 md:text-left">Shivshant Prasad</h1>
             <div className="my-8">
               <TypeAnimation
-                className="text-2xl text-primary -mt-4 font-bold text-center translate-y-[-500%] sm:translate-y-[-0%]  sm:text-2xl sm:mb-2 md:text-left"
+                className="text-2xl text-primary -mt-6 font-bold text-center translate-y-[-500%] sm:translate-y-[-0%]  sm:text-2xl sm:mb-2 md:text-left"
                 cursor={true}
                 speed = {60}
                 deletionSpeed = {57}
@@ -85,7 +86,7 @@ const About = () => {
               maximize user efficiency. */}
             </p>
             <br />
-            <p className="text-neutral -mt-4 font-medium text-center translate-y-[-150%] sm:translate-y-[-0%] sm:mb-2 md:text-left">
+            <p className="text-neutral -mt-6 font-medium text-center translate-y-[-150%] sm:translate-y-[-0%] sm:mb-2 md:text-left">
               My passion for solving complex problems and creating innovative
               solutions drives me to stay up-to-date with the latest
               technologies and trends in the industry.
