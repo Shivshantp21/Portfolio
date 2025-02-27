@@ -1,5 +1,6 @@
 import React from "react";
-import Lottie from "lottie-react";import readingBook from "../../../assets/reading-book.json";
+import Lottie from "lottie-react";
+import readingBook from "../../../assets/reading-book.json";
 
 const Education = () => {
   const defaultOptions = {

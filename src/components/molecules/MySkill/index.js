@@ -1,5 +1,6 @@
 import React from "react";
-import Lottie from "lottie-react";import {
+import Lottie from "lottie-react";
+import {
   FaHtml5,
   FaCss3Alt,
   FaNodeJs,
